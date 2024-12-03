@@ -1,16 +1,19 @@
-## Hi there 👋
+🎓 Systems Engineering Student | 📍 Universidad Peruana de Ciencias Aplicadas (UPC)  
+👨‍💻 Passionate about technology, coding, and continuous learning.  
 
-<!--
-**6pad9/6pad9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Technologies I Work With:**  
+- Frontend: HTML, CSS, JavaScript  
+- Backend: C#, C++, Node.js  
+- Databases: SQL, NoSQL (MongoDB, Firebase)  
 
-Here are some ideas to get you started:
+🌱 **Currently Learning:**  
+- React.js for building interactive web applications.  
+- Advanced database optimization techniques.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **What You'll Find Here:**  
+- Personal and academic projects showcasing my growth in software development.  
+- Code solutions for algorithms, small apps, and database management projects.  
+
+📌 **Goal:** To contribute to impactful projects while expanding my knowledge in full-stack development.  
+
+✨ Let's connect! I'm always open to collaborations and new challenges. 
